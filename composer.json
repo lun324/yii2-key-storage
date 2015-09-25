@@ -10,5 +10,10 @@
             "name": "Leal",
             "email": "442962403@qq.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "lun324\\keystorage\\": ""
+        }
+    }
 }
